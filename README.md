@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Marcia Camargo🫶
 
-![Marcia Camargo GitHub stats](https://github-readme-stats.vercel.app/api?username=MarciaCamargo&show_icons=true&theme=radical&count_private=true)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
